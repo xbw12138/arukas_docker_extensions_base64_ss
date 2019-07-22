@@ -1,7 +1,6 @@
 # Arukas Docker SS base64加密插件
 
-Arukas Docker app 下载 [v1.5.5]
-
+[Arukas Docker app 下载 [v1.5.5]](https://play.google.com/store/apps/details?id=com.xbw.arukas)
 
 ## 1.插件提交
 
