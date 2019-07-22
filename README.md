@@ -27,13 +27,13 @@ Arukas Docker app 下载 [v1.5.5]
 -------
 
 ## 3.ENV 设置
-PASSWORD = password
+PASSWORD = password<br>
 METHOD = aes-256-cfb (默认 chacha20)
 
 -------
 
 ## 4.Port
-8388 TCP
+8388 TCP<br>
 8388 UDP
 
 -------
